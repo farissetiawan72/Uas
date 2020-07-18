@@ -1,0 +1,2 @@
+# Uas Web2
+file uas web2 Faris setiawan-171011402461 aplikasi Data Zakat mal yang terdapat menu login untuk untuk masuk kesebuah halaman, crud data registrasi untuk melihat list Formulir Registrasi Zakat, Cetak PDF untuk mencetak bukti hasil registrasi zakat, Tambah untuk menerima registrasi baru  , Back to menu untuk kembali ke halaman awal , logout untuk keluar halaman dan untuk melihat mengubah dan menghapus data silahkan kunjungi hasilnya disini: http://zakatberkah.000webhostapp.com
